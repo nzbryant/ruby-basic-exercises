@@ -4,7 +4,7 @@ age = gets.chomp.to_i
 if age<40
 	puts "young and dumb"
 elsif age>=40
-	puts "wisw"
+	puts "wise"
 end
 
 print "color?"
