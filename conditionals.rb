@@ -2,7 +2,7 @@ print "age?"
 age = gets.chomp.to_i
 
 if age<40
-	puts "young and dumb"
+	puts "young"
 elsif age>=40
 	puts "wise"
 end
