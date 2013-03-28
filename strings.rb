@@ -8,6 +8,7 @@ puts "Charles is #{activity}"
 
 puts "charles are you the man?"
 
+
 age = gets.chomp
 
 print age
