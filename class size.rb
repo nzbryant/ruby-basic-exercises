@@ -16,7 +16,6 @@ if remainder > 0
 	number_of_groups = cs / gs
 end	
 
-puts number_of_groups
 
 
 # Class list
